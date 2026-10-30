@@ -115,7 +115,7 @@ cloud-file-sharing-backend/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/ajinkya029/cloud-file-sharing-backend.git
 ```
 
 ```bash
